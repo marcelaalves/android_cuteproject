@@ -1,2 +1,2 @@
 # android_cuteproject
-# test
+# a project to celebrate love!
