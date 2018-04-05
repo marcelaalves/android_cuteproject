@@ -1,0 +1,7 @@
+Todo list
+login
+Playlist
+Galery
+Calendar
+Notes 
+Dictionary
